@@ -7,7 +7,7 @@
 npm install -g babel-cli
 npm install -g webpack
 npm install
-`-
+#`-
   |# npm install --save-dev babel-pollyfill
   |# npm install --save-dev babel-preset-es2015
   |# npm install --save-dev babel-preset-react
